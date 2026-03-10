@@ -44,7 +44,7 @@ const About = () => {
                             <span className="code-tab"></span><span className="keyword">String</span> <span className="variable">name</span> = <span className="string">"Bharanidharan M"</span>;{'\n'}
                             {'\n'}
                             <span className="code-tab"></span><span className="keyword">String</span>[] <span className="variable">roles</span> = {'{\n'}
-                            <span className="code-tab"></span><span className="code-tab"></span><span className="string">"Java Full Stack Developer"</span>,{'\n'}
+                            <span className="code-tab"></span><span className="code-tab"></span><span className="string">"Java Developer"</span>,{'\n'}
                             <span className="code-tab"></span><span className="code-tab"></span><span className="string">"Backend Developer"</span>,{'\n'}
                             <span className="code-tab"></span><span className="code-tab"></span><span className="string">"Software Engineer"</span>{'\n'}
                             <span className="code-tab"></span>{'};\n'}

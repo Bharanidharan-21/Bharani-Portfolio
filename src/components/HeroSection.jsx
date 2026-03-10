@@ -8,7 +8,7 @@ const HeroSection = () => {
     const [loopNum, setLoopNum] = useState(0);
     const [typingSpeed, setTypingSpeed] = useState(150);
 
-    const roles = ["Java Backend Developer", "Software Engineer"];
+    const roles = ["Java Developer", "Software Engineer", "Backend Developer"];
 
     useEffect(() => {
         let timer = setTimeout(() => {
